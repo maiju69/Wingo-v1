@@ -1,0 +1,18 @@
+# venvs
+venv
+
+# cache
+__pycache__/
+
+# logs
+logs/
+*.log
+
+# dataset
+dataset/
+
+# models
+
+# .env
+.env
+.idea
